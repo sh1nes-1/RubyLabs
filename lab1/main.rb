@@ -2,11 +2,24 @@ require 'open-uri'
 require 'nokogiri'
 require 'csv'
 
-SEARCH_KEYWORD = CGI.escape('Відеокарта')
 BASE_URL = 'https://ek.ua/ua'
-OUTPUT_FILENAME = 'lab1/data.csv'
-CSV_HEADER = ['Title', 'Specs', 'Price', 'Image', 'Link']
+CATALOG_ID=189
+SEARCH_KEYWORD = URI.encode_www_form_component('Відеокарта')
+CATALOG_URL = "#{BASE_URL}/ek-list.php?katalog_=#{CATALOG_ID}&sb_=#{SEARCH_KEYWORD}&page_="
+MAX_PAGES = 5
+OUTPUT_FILENAME = 'data.csv'
+CSV_HEADER = %w[Title Specs Price Image Link]
 
+
+def fetch_items(page)
+  page_index = page - 1
+  url = CATALOG_URL + page_index.to_s
+
+  html = URI.open(url)
+  doc = Nokogiri::HTML(html)
+
+  parse_items(doc)
+end
 
 def parse_items(doc)
   items = Array.new
@@ -16,14 +29,14 @@ def parse_items(doc)
     items.push(item)
   end
 
-  return items
+  items
 end
 
 def parse_item(item_el)
   item_link_el = item_el.at('.model-short-title')
   
   price_el = item_el.at_css('.model-hot-prices-td .model-price-range a') # price range (63 012 до 76 848 грн.)
-  if not price_el        
+  unless price_el
     price_el = item_el.at_css('.model-hot-prices-td .pr31') # price (26 999 грн.)
   end
 
@@ -34,7 +47,7 @@ def parse_item(item_el)
   item['image'] = item_el.css('.model-short-photo img').attr('src')
   item['link']  = BASE_URL + item_link_el.attr('href')
 
-  return item
+  item
 end
 
 def export_to_csv(filename, header, items)
@@ -46,8 +59,16 @@ def export_to_csv(filename, header, items)
   end
 end
 
-html = URI.open("#{BASE_URL}/ek-list.php?search_=#{SEARCH_KEYWORD}")
-doc = Nokogiri::HTML(html)
 
-items = parse_items(doc)
-export_to_csv(OUTPUT_FILENAME, CSV_HEADER, items)
+all_items = Array.new
+
+(1..MAX_PAGES).each do |page|
+  page_items = fetch_items(page)
+  if page_items.length == 0
+    break
+  end
+
+  all_items += page_items
+end
+
+export_to_csv(OUTPUT_FILENAME, CSV_HEADER, all_items)
