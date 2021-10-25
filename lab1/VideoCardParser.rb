@@ -10,14 +10,8 @@ class VideoCardParser
     img_url       = item['image']
     reference_url = item['link']
 
-    prices = item['price'].split('до') # 62 397 до 74 843 грн.
-    if prices.length == 2
-      min_price = prices[0].gsub(' ', '').strip
-      max_price = prices[1].gsub(' ', '').gsub('грн.', '').strip
-    else
-      min_price = prices[0].gsub(' ', '').gsub('грн.', '').strip
-      max_price = min_price
-    end
+    min_price = item['min_price'].gsub(' ', '').strip
+    max_price = item['max_price'].gsub(' ', '').strip
 
     memory_data = item['specs']["Пам'ять"].split(',') # 12ГБ, GDDR6, 15000МГц
     memory_capacity  = memory_data[0].gsub(' ', '').strip

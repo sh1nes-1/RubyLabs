@@ -1,23 +1,115 @@
 title,memory_capacity,memory_frequency,memory_type,gpu_name,gpu_frequency,min_price,max_price,img_url,reference_url
-Gigabyte GeForce GTX 1660 OC 6G,6ГБ,8000МГц,GDDR5,NVIDIA GeForce GTX 1660,1830МГц,19511,22999,https://s.ek.ua/jpg/1538373.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1660-OC-6G.htm
-MSI GeForce RTX 3060 Ti GAMING Z TRIO 8G LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1845МГц,31103,36250,https://s.ek.ua/jpg/2052995.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-TI-GAMING-Z-TRIO-8G-LHR.htm
+Gigabyte GeForce GTX 1660 OC 6G,6ГБ,8000МГц,GDDR5,NVIDIA GeForce GTX 1660,1830МГц,19511,19511,https://s.ek.ua/jpg/1538373.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1660-OC-6G.htm
 Gigabyte GeForce RTX 3060 GAMING OC LHR 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1837МГц,25704,30723,https://s.ek.ua/jpg/2055429.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-GAMING-OC-LHR-12G.htm
-MSI GeForce RTX 3060 Ti GAMING X 8G LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1770МГц,30456,35380,https://s.ek.ua/jpg/2052999.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-TI-GAMING-X-8G-LHR.htm
-Gigabyte GeForce RTX 3080 Ti GAMING OC 12G,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1710МГц,59805,64252,https://s.ek.ua/jpg/2033444.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3080-TI-GAMING-OC-12G.htm
-MSI GeForce RTX 3060 GAMING X 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1837МГц,26399,32999,https://s.ek.ua/jpg/1941006.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-GAMING-X-12G.htm
+MSI GeForce RTX 3060 Ti GAMING Z TRIO 8G LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1845МГц,31103,36250,https://s.ek.ua/jpg/2052995.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-TI-GAMING-Z-TRIO-8G-LHR.htm
+MSI GeForce RTX 3060 Ti GAMING X 8G LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1770МГц,29040,35380,https://s.ek.ua/jpg/2052999.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-TI-GAMING-X-8G-LHR.htm
+MSI GeForce RTX 3060 GAMING X 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1837МГц,26399,33499,https://s.ek.ua/jpg/1941006.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-GAMING-X-12G.htm
 Gigabyte GeForce RTX 3060 EAGLE OC LHR 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1807МГц,24354,28485,https://s.ek.ua/jpg/2055434.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-EAGLE-OC-LHR-12G.htm
-Palit GeForce RTX 3060 Dual,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1777МГц,25050,35038,https://s.ek.ua/jpg/1942025.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3060-DUAL.htm
-Gigabyte GeForce RTX 3060 GAMING OC 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1837МГц,31466,33499,https://s.ek.ua/jpg/1941020.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-GAMING-OC-12G.htm
-MSI GeForce RTX 2060 VENTUS GP OC,6ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 2060,1710МГц,21100,22765,https://s.ek.ua/jpg/1500206.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-2060-VENTUS-GP-OC.htm
+Gigabyte GeForce RTX 3080 Ti GAMING OC 12G,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1710МГц,59805,69902,https://s.ek.ua/jpg/2033444.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3080-TI-GAMING-OC-12G.htm
+Palit GeForce RTX 3060 Dual,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1777МГц,25140,35038,https://s.ek.ua/jpg/1942025.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3060-DUAL.htm
 Asus GeForce RTX 3060 Ti TUF Gaming V2 OC LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1785МГц,28999,30456,https://s.ek.ua/jpg/2053588.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-TI-TUF-GAMING-V2-OC-LHR.htm
-Gigabyte GeForce RTX 2060 D6 6G,6ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 2060,1680МГц,21111,25700,https://s.ek.ua/jpg/1836526.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-2060-D6-6G.htm
+Gigabyte GeForce RTX 2060 D6 6G,6ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 2060,1680МГц,21111,25800,https://s.ek.ua/jpg/1836526.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-2060-D6-6G.htm
 Gigabyte GeForce RTX 3070 GAMING OC LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1815МГц,34700,35775,https://s.ek.ua/jpg/2055544.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3070-GAMING-OC-LHR-8G.htm
-Palit GeForce RTX 3070 Ti GamingPro,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1770МГц,41774,49742,https://s.ek.ua/jpg/2034141.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3070-TI-GAMINGPRO.htm
-Palit GeForce 1050 Ti StormX NE5105T018G1-1070F,4ГБ,7000МГц,GDDR5,NVIDIA GeForce GTX 1050 Ti,1290МГц,10101,10999,https://s.ek.ua/jpg/951123.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-1050-TI-STORMX-NE5105T018G1-1070F.htm
-Gigabyte GeForce RTX 3060 Ti GAMING OC LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1740МГц,29099,32999,https://s.ek.ua/jpg/2055458.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-LHR-8G.htm
-Palit GeForce GTX 1660 SUPER GP OC,6ГБ,14000МГц,GDDR6,NVIDIA GeForce GTX 1660 SUPER,1830МГц,22523,25200,https://s.ek.ua/jpg/1682004.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-GTX-1660-SUPER-GP-OC.htm
-Gigabyte GeForce RTX 3060 Ti EAGLE OC LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1695МГц,27999,40999,https://s.ek.ua/jpg/2055470.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-TI-EAGLE-OC-LHR-8G.htm
+MSI GeForce RTX 3060 GAMING X TRIO 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1852МГц,27999,27999,https://s.ek.ua/jpg/1941005.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-GAMING-X-TRIO-12G.htm
+Gigabyte GeForce RTX 3060 GAMING OC 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1837МГц,31466,33499,https://s.ek.ua/jpg/1941020.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-GAMING-OC-12G.htm
+Palit GeForce GTX 1660 Dual,6ГБ,8000МГц,GDDR5,NVIDIA GeForce GTX 1660,1785МГц,26017,26020,https://s.ek.ua/jpg/1540483.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-GTX-1660-DUAL.htm
+Gigabyte GeForce RTX 3060 Ti EAGLE OC LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1695МГц,28323,40999,https://s.ek.ua/jpg/2055470.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-TI-EAGLE-OC-LHR-8G.htm
+MSI GeForce RTX 2060 VENTUS GP OC,6ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 2060,1710МГц,21100,22765,https://s.ek.ua/jpg/1500206.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-2060-VENTUS-GP-OC.htm
 Sapphire Radeon RX 6600 PULSE,8ГБ,14000МГц,GDDR6,AMD Radeon RX 6600,2491МГц,21111,21111,https://s.ek.ua/jpg/2113047.jpg,https://ek.ua/ua/ua/SAPPHIRE-RADEON-RX-6600-PULSE.htm
+Biostar Radeon RX 550 VA5505RF41,4ГБ,6000МГц,GDDR5,AMD Radeon RX 550,1183МГц,6064,6290,https://s.ek.ua/jpg/2073230.jpg,https://ek.ua/ua/ua/BIOSTAR-RADEON-RX-550-VA5505RF41.htm
+Gigabyte GeForce RTX 3060 Ti AORUS ELITE LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1785МГц,31887,31887,https://s.ek.ua/jpg/2055446.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-TI-AORUS-ELITE-LHR-8G.htm
+Palit GeForce RTX 3070 Ti GamingPro,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1770МГц,41999,49742,https://s.ek.ua/jpg/2034141.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3070-TI-GAMINGPRO.htm
+Gigabyte GeForce RTX 3060 Ti GAMING OC LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1740МГц,29099,32999,https://s.ek.ua/jpg/2055458.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-LHR-8G.htm
+Asus GeForce RTX 3060 Ti ROG STRIX V2 Gaming OC LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1890МГц,33318,33318,https://s.ek.ua/jpg/2052939.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-TI-ROG-STRIX-V2-GAMING-OC-LHR.htm
+Palit GeForce 1050 Ti StormX NE5105T018G1-1070F,4ГБ,7000МГц,GDDR5,NVIDIA GeForce GTX 1050 Ti,1290МГц,10826,10999,https://s.ek.ua/jpg/951123.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-1050-TI-STORMX-NE5105T018G1-1070F.htm
+Palit GeForce GTX 1660 SUPER GP OC,6ГБ,14000МГц,GDDR6,NVIDIA GeForce GTX 1660 SUPER,1830МГц,23499,25200,https://s.ek.ua/jpg/1682004.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-GTX-1660-SUPER-GP-OC.htm
+AFOX Radeon RX 560 AFRX560-4096D5H4,4ГБ,7000МГц,GDDR5,AMD Radeon RX 560,1275МГц,7338,8756,https://s.ek.ua/jpg/2056006.jpg,https://ek.ua/ua/ua/AFOX-RADEON-RX-560-AFRX560-4096D5H4.htm
+MSI GeForce GTX 1660 Ti VENTUS XS 6G OC,6ГБ,12000МГц,GDDR6,NVIDIA GeForce GTX 1660 Ti,1830МГц,21599,22129,https://s.ek.ua/jpg/1518235.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-GTX-1660-TI-VENTUS-XS-6G-OC.htm
+Biostar Radeon RX 560 VA5615RF41,4ГБ,6000МГц,GDDR5,AMD Radeon RX 560,1275МГц,7166,8790,https://s.ek.ua/jpg/2038285.jpg,https://ek.ua/ua/ua/BIOSTAR-RADEON-RX-560-VA5615RF41.htm
+Sapphire Radeon RX 6600 XT PULSE,8ГБ,16000МГц,GDDR6,AMD Radeon RX 6600 XT,2593МГц,25299,42449,https://s.ek.ua/jpg/2076434.jpg,https://ek.ua/ua/ua/SAPPHIRE-RADEON-RX-6600-XT-PULSE.htm
 MSI GeForce RTX 3060 VENTUS 3X 12G OC,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1807МГц,34199,34199,https://s.ek.ua/jpg/1941014.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-VENTUS-3X-12G-OC.htm
 Palit GeForce RTX 3080 Ti GamingPro,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1665МГц,66500,70045,https://s.ek.ua/jpg/2034138.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3080-TI-GAMINGPRO.htm
-Asus GeForce RTX 3080 Ti ROG STRIX OC,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1845МГц,62397,74843,https://s.ek.ua/jpg/2038314.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3080-TI-ROG-STRIX-OC.htm
+Asus GeForce RTX 3080 Ti ROG STRIX OC,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1845МГц,62397,87195,https://s.ek.ua/jpg/2038314.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3080-TI-ROG-STRIX-OC.htm
+Gigabyte Radeon RX 6700 XT GAMING OC 12G,12ГБ,16000МГц,GDDR6,AMD Radeon RX 6700 XT,2622МГц,34100,42300,https://s.ek.ua/jpg/1977435.jpg,https://ek.ua/ua/ua/GIGABYTE-RADEON-RX-6700-XT-GAMING-OC-12G.htm
+Asus GeForce RTX 3080 Ti TUF Gaming OC,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1785МГц,60912,60912,https://s.ek.ua/jpg/2038294.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3080-TI-TUF-GAMING-OC.htm
+Gigabyte GeForce RTX 3070 AORUS MASTER 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1845МГц,51900,51900,https://s.ek.ua/jpg/1897804.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3070-AORUS-MASTER-8G.htm
+MSI GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1695МГц,31999,34585,https://s.ek.ua/jpg/2053079.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-TI-VENTUS-2X-8G-OCV1-LHR.htm
+Gigabyte GeForce RTX 3090 GAMING OC 24G,24ГБ,19500МГц,GDDR6X,NVIDIA GeForce RTX 3090,1755МГц,85900,110653,https://s.ek.ua/jpg/1864263.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3090-GAMING-OC-24G.htm
+Asus GeForce RTX 3060 ROG STRIX V2 Gaming OC LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1912МГц,27189,32999,https://s.ek.ua/jpg/2052893.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-ROG-STRIX-V2-GAMING-OC-LHR.htm
+Sapphire Radeon RX 6600 XT NITRO+,8ГБ,16000МГц,GDDR6,AMD Radeon RX 6600 XT,2607МГц,26799,44415,https://s.ek.ua/jpg/2076437.jpg,https://ek.ua/ua/ua/SAPPHIRE-RADEON-RX-6600-XT-NITROPLUS.htm
+Gigabyte GeForce GTX 1660 Ti OC 6G,6ГБ,12000МГц,GDDR6,NVIDIA GeForce GTX 1660 Ti,1800МГц,21080,21080,https://s.ek.ua/jpg/1518228.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1660-TI-OC-6G.htm
+Asus GeForce RTX 3060 TUF Gaming V2 OC LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1882МГц,26487,30499,https://s.ek.ua/jpg/2047918.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-TUF-GAMING-V2-OC-LHR.htm
+Palit GeForce RTX 3070 GamingPro V1 LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1725МГц,35525,40964,https://s.ek.ua/jpg/2053230.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3070-GAMINGPRO-V1-LHR.htm
+Gigabyte GeForce GTX 1650 D6 OC 4G,4ГБ,12000МГц,GDDR6,NVIDIA GeForce GTX 1650,1635МГц,11899,13883,https://s.ek.ua/jpg/1776001.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1650-D6-OC-4G.htm
+Asus Radeon RX 6700 XT ROG STRIX Gaming OC,12ГБ,16000МГц,GDDR6,AMD Radeon RX 6700 XT,2622МГц,37516,37529,https://s.ek.ua/jpg/2014630.jpg,https://ek.ua/ua/ua/ASUS-RADEON-RX-6700-XT-ROG-STRIX-GAMING-OC.htm
+MSI GeForce RTX 3060 VENTUS 2X 12G OC,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1807МГц,27699,28310,https://s.ek.ua/jpg/1941016.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-VENTUS-2X-12G-OC.htm
+Palit GeForce RTX 3060 Dual OC V1 LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1837МГц,25392,25403,https://s.ek.ua/jpg/2070431.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3060-DUAL-OC-V1-LHR.htm
+Gigabyte GeForce RTX 3070 Ti GAMING OC 8G,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1830МГц,40162,45508,https://s.ek.ua/jpg/2033483.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3070-TI-GAMING-OC-8G.htm
+Palit GeForce RTX 3060 Ti Dual V1 LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1665МГц,29052,30245,https://s.ek.ua/jpg/2053217.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3060-TI-DUAL-V1-LHR.htm
+Gigabyte GeForce RTX 3080 Ti VISION OC 12G,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1710МГц,61344,77539,https://s.ek.ua/jpg/2033456.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3080-TI-VISION-OC-12G.htm
+Asus GeForce RTX 3060 Dual V2 OC LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1867МГц,25758,25758,https://s.ek.ua/jpg/2066429.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-DUAL-V2-OC-LHR.htm
+Palit GeForce RTX 3070 GameRock OC,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1845МГц,43002,43005,https://s.ek.ua/jpg/1896788.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3070-GAMEROCK-OC.htm
+MSI GeForce RTX 3080 Ti SUPRIM X 12G,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1845МГц,93001,93004,https://s.ek.ua/jpg/2033765.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3080-TI-SUPRIM-X-12G.htm
+Asus GeForce RTX 3070 Ti TUF Gaming OC,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1815МГц,43740,43740,https://s.ek.ua/jpg/2037926.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3070-TI-TUF-GAMING-OC.htm
+Asus Radeon RX 6600 XT Dual OC,8ГБ,16000МГц,GDDR6,AMD Radeon RX 6600 XT,2607МГц,22278,27000,https://s.ek.ua/jpg/2073266.jpg,https://ek.ua/ua/ua/ASUS-RADEON-RX-6600-XT-DUAL-OC.htm
+MSI GeForce RTX 3070 Ti SUPRIM X 8G,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1875МГц,50140,54131,https://s.ek.ua/jpg/2033789.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3070-TI-SUPRIM-X-8G.htm
+Asus GeForce RTX 3060 Phoenix V2 LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1807МГц,23652,25975,https://s.ek.ua/jpg/2087262.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-PHOENIX-V2-LHR.htm
+MSI GeForce GTX 1650 4GT LP OC,4ГБ,8000МГц,GDDR5,NVIDIA GeForce GTX 1650,1695МГц,12999,12999,https://s.ek.ua/jpg/1633274.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-GTX-1650-4GT-LP-OC.htm
+MSI GeForce RTX 3060 GAMING Z TRIO 12G,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1867МГц,27998,32324,https://s.ek.ua/jpg/2077707.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-GAMING-Z-TRIO-12G.htm
+PowerColor Radeon RX 6900 XT Ultimate Red Devil,16ГБ,16000МГц,GDDR6,AMD Radeon RX 6900 XT,2425МГц,70219,70222,https://s.ek.ua/jpg/2053614.jpg,https://ek.ua/ua/ua/POWERCOLOR-RADEON-RX-6900-XT-ULTIMATE-RED-DEVIL.htm
+Sapphire NITRO+ RX 6800 XT 11304-02-20G,16ГБ,16000МГц,GDDR6,AMD Radeon RX 6800 XT,2360МГц,49999,49999,https://s.ek.ua/jpg/1909020.jpg,https://ek.ua/ua/ua/SAPPHIRE-NITROPLUS-RX-6800-XT-11304-02-20G.htm
+MSI GeForce RTX 3080 Ti GAMING X TRIO 12G,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1770МГц,61587,75808,https://s.ek.ua/jpg/2033772.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3080-TI-GAMING-X-TRIO-12G.htm
+Gigabyte GeForce GTX 1050 Ti OC 4G,4ГБ,7008МГц,GDDR5,NVIDIA GeForce GTX 1050 Ti,1341МГц,10507,10507,https://s.ek.ua/jpg/949779.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1050-TI-OC-4G.htm
+Gigabyte GeForce GT 1030 Low Profile 2G,2ГБ,6008МГц,GDDR5,NVIDIA GeForce GT 1030,1252МГц,3398,8193,https://s.ek.ua/jpg/1113025.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GT-1030-LOW-PROFILE-2G.htm
+INNO3D GeForce RTX 3080 Ti ICHILL X4,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1710МГц,63690,86822,https://s.ek.ua/jpg/2053297.jpg,https://ek.ua/ua/ua/INNO3D-GEFORCE-RTX-3080-TI-ICHILL-X4.htm
+AFOX GeForce GT 1030 AF1030-2048D5L5-V2,2ГБ,6000МГц,GDDR5,NVIDIA GeForce GT 1030,1265МГц,3109,3433,https://s.ek.ua/jpg/1971850.jpg,https://ek.ua/ua/ua/AFOX-GEFORCE-GT-1030-AF1030-2048D5L5-V2.htm
+MSI Radeon RX 6900 XT GAMING Z TRIO 16G,16ГБ,16000МГц,GDDR6,AMD Radeon RX 6900 XT,2425МГц,54999,69424,https://s.ek.ua/jpg/2044552.jpg,https://ek.ua/ua/ua/MSI-RADEON-RX-6900-XT-GAMING-Z-TRIO-16G.htm
+Palit GeForce RTX 3070 JetStream OC V1 LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1815МГц,36840,43890,https://s.ek.ua/jpg/2053229.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3070-JETSTREAM-OC-V1-LHR.htm
+Gigabyte Radeon RX 6800 XT GAMING OC 16G,16ГБ,16000МГц,GDDR6,AMD Radeon RX 6800 XT,2285МГц,49842,49842,https://s.ek.ua/jpg/1958262.jpg,https://ek.ua/ua/ua/GIGABYTE-RADEON-RX-6800-XT-GAMING-OC-16G.htm
+Gigabyte GeForce GT 1030 OC 2G,2ГБ,6008МГц,GDDR5,NVIDIA GeForce GT 1030,1290МГц,7562,8095,https://s.ek.ua/jpg/1152525.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GT-1030-OC-2G.htm
+INNO3D GeForce RTX 3060 TWIN X2 OC,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1792МГц,31999,31999,https://s.ek.ua/jpg/1941090.jpg,https://ek.ua/ua/ua/INNO3D-GEFORCE-RTX-3060-TWIN-X2-OC.htm
+Gigabyte GeForce RTX 2060 OC 6G,6ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 2060,1755МГц,22750,22750,https://s.ek.ua/jpg/1500179.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-2060-OC-6G.htm
+Gigabyte GeForce GTX 1660 SUPER OC 6G,6ГБ,14000МГц,GDDR6,NVIDIA GeForce GTX 1660 SUPER,1830МГц,25120,29999,https://s.ek.ua/jpg/1681786.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1660-SUPER-OC-6G.htm
+Gigabyte GeForce RTX 3070 Ti AORUS MASTER 8G,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1875МГц,46197,46197,https://s.ek.ua/jpg/2033472.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3070-TI-AORUS-MASTER-8G.htm
+INNO3D GeForce RTX 3060 TWIN X2 LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1777МГц,25999,34302,https://s.ek.ua/jpg/2102868.jpg,https://ek.ua/ua/ua/INNO3D-GEFORCE-RTX-3060-TWIN-X2-LHR.htm
+Sapphire Radeon RX 6700 XT 11306-01-20G,12ГБ,16000МГц,GDDR6,AMD Radeon RX 6700 XT,2622МГц,38725,47584,https://s.ek.ua/jpg/1998458.jpg,https://ek.ua/ua/ua/SAPPHIRE-RADEON-RX-6700-XT-11306-01-20G.htm
+Asus Radeon RX 6600 XT ROG STRIX Gaming OC,8ГБ,16000МГц,GDDR6,AMD Radeon RX 6600 XT,2607МГц,25999,28560,https://s.ek.ua/jpg/2073275.jpg,https://ek.ua/ua/ua/ASUS-RADEON-RX-6600-XT-ROG-STRIX-GAMING-OC.htm
+Gigabyte GeForce RTX 3080 GAMING OC LHR 10G,10ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080,1800МГц,48276,51040,https://s.ek.ua/jpg/2055614.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3080-GAMING-OC-LHR-10G.htm
+Asus GeForce RTX 3080 TUF GAMING OC V2 LHR,10ГБ,19500МГц,GDDR6X,NVIDIA GeForce RTX 3080,1815МГц,50366,56538,https://s.ek.ua/jpg/2077942.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3080-TUF-GAMING-OC-V2-LHR.htm
+AFOX Radeon RX 550 AFRX550-4096D5H4-V5,4ГБ,6000МГц,GDDR5,AMD Radeon RX 550,1183МГц,6499,7483,https://s.ek.ua/jpg/2018120.jpg,https://ek.ua/ua/ua/AFOX-RADEON-RX-550-AFRX550-4096D5H4-V5.htm
+Asus Radeon RX 570 EX-RX570-O4G,4ГБ,7000МГц,GDDR5,AMD Radeon RX 570,1266МГц,10299,10299,https://s.ek.ua/jpg/1096918.jpg,https://ek.ua/ua/ua/ASUS-RADEON-RX-570-EX-RX570-O4G.htm
+Asus Radeon RX 550 RX550-2G,2ГБ,7000МГц,GDDR5,AMD Radeon RX 550,1183МГц,4275,4275,https://s.ek.ua/jpg/1098632.jpg,https://ek.ua/ua/ua/ASUS-RADEON-RX-550-RX550-2G.htm
+Palit GeForce RTX 3070 GamingPro,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1725МГц,36983,43090,https://s.ek.ua/jpg/1864380.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3070-GAMINGPRO.htm
+Gigabyte GeForce RTX 3080 AORUS XTREME LHR 10G,10ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080,1905МГц,58180,62909,https://s.ek.ua/jpg/2055583.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-LHR-10G.htm
+Palit GeForce RTX 3080 GameRock V1 LHR,10ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080,1755МГц,52466,57495,https://s.ek.ua/jpg/2053233.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3080-GAMEROCK-V1-LHR.htm
+Gainward GeForce RTX 3060 Pegasus,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1777МГц,22613,22616,https://s.ek.ua/jpg/1964712.jpg,https://ek.ua/ua/ua/GAINWARD-GEFORCE-RTX-3060-PEGASUS.htm
+INNO3D GeForce RTX 2060 TWIN X2,6ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 2060,1680МГц,20328,21699,https://s.ek.ua/jpg/1500567.jpg,https://ek.ua/ua/ua/INNO3D-GEFORCE-RTX-2060-TWIN-X2.htm
+MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1800МГц,46555,46555,https://s.ek.ua/jpg/2033813.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3070-TI-VENTUS-3X-8G-OC.htm
+Asus Radeon RX 6900 XT ROG STRIX LC,16ГБ,16000МГц,GDDR6,AMD Radeon RX 6900 XT,2525МГц,52272,54559,https://s.ek.ua/jpg/2038542.jpg,https://ek.ua/ua/ua/ASUS-RADEON-RX-6900-XT-ROG-STRIX-LC.htm
+Asus GeForce RTX 3080 TUF OC GAMING,10ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080,1815МГц,75750,81928,https://s.ek.ua/jpg/1922294.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3080-TUF-OC-GAMING.htm
+Asus GeForce RTX 3060 Ti Dual V2 OC LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1740МГц,29614,29754,https://s.ek.ua/jpg/2077940.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-TI-DUAL-V2-OC-LHR.htm
+Asus GeForce RTX 3080 ROG STRIX V2 Gaming OC LHR,10ГБ,19500МГц,GDDR6X,NVIDIA GeForce RTX 3080,1935МГц,54000,57999,https://s.ek.ua/jpg/2052932.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3080-ROG-STRIX-V2-GAMING-OC-LHR.htm
+Palit GeForce RTX 3080 Ti GameRock,12ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3080 Ti,1665МГц,61945,64499,https://s.ek.ua/jpg/2034137.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-RTX-3080-TI-GAMEROCK.htm
+Asus GeForce GT 1030 GT1030-2G-BRK,2ГБ,6008МГц,GDDR5,NVIDIA GeForce GT 1030,1266МГц,3624,3737,https://s.ek.ua/jpg/1286008.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-GT-1030-GT1030-2G-BRK.htm
+ZOTAC GeForce RTX 3070 Ti Trinity OC,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1800МГц,40365,40365,https://s.ek.ua/jpg/2084875.jpg,https://ek.ua/ua/ua/ZOTAC-GEFORCE-RTX-3070-TI-TRINITY-OC.htm
+ASRock Radeon RX 6900 XT Phantom Gaming D 16G OC,16ГБ,16000МГц,GDDR6,AMD Radeon RX 6900 XT,2340МГц,48285,56257,https://s.ek.ua/jpg/1924771.jpg,https://ek.ua/ua/ua/ASROCK-RADEON-RX-6900-XT-PHANTOM-GAMING-D-16G-OC.htm
+Asus GeForce RTX 3070 ROG STRIX V2 OC LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1935МГц,36960,37638,https://s.ek.ua/jpg/2052990.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3070-ROG-STRIX-V2-OC-LHR.htm
+Gigabyte GeForce RTX 3060 Ti VISION OC LHR 8G,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1755МГц,29754,29754,https://s.ek.ua/jpg/2055460.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-RTX-3060-TI-VISION-OC-LHR-8G.htm
+Biostar Radeon RX 550 VA5515RF21,2ГБ,6000МГц,GDDR5,AMD Radeon RX 550,1100МГц,4803,6860,https://s.ek.ua/jpg/2038287.jpg,https://ek.ua/ua/ua/BIOSTAR-RADEON-RX-550-VA5515RF21.htm
+MSI GeForce RTX 3070 GAMING Z TRIO 8G LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1845МГц,36558,40999,https://s.ek.ua/jpg/2053193.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3070-GAMING-Z-TRIO-8G-LHR.htm
+ZOTAC GeForce RTX 3060 Twin Edge OC,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1807МГц,25999,33474,https://s.ek.ua/jpg/1973546.jpg,https://ek.ua/ua/ua/ZOTAC-GEFORCE-RTX-3060-TWIN-EDGE-OC.htm
+Asus GeForce GT 1030 GT1030-SL-2G-BRK,2ГБ,6008МГц,GDDR5,NVIDIA GeForce GT 1030,1266МГц,3775,3775,https://s.ek.ua/jpg/1115096.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-GT-1030-GT1030-SL-2G-BRK.htm
+Gigabyte GeForce GTX 1660 SUPER D6 6G,6ГБ,14000МГц,GDDR6,NVIDIA GeForce GTX 1660 SUPER,1785МГц,24224,24224,https://s.ek.ua/jpg/1972988.jpg,https://ek.ua/ua/ua/GIGABYTE-GEFORCE-GTX-1660-SUPER-D6-6G.htm
+EVGA GeForce RTX 3060 XC GAMING,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1882МГц,32102,33899,https://s.ek.ua/jpg/1987392.jpg,https://ek.ua/ua/ua/EVGA-GEFORCE-RTX-3060-XC-GAMING.htm
+MSI GeForce RTX 3060 GAMING X TRIO 12G LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1852МГц,26487,26487,https://s.ek.ua/jpg/2084127.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-GAMING-X-TRIO-12G-LHR.htm
+MSI GeForce RTX 3070 Ti GAMING X TRIO 8G,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1830МГц,42579,48904,https://s.ek.ua/jpg/2033800.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3070-TI-GAMING-X-TRIO-8G.htm
+PowerColor Radeon RX 6700 XT Red Devil,12ГБ,16000МГц,GDDR6,AMD Radeon RX 6700 XT,2622МГц,37510,51588,https://s.ek.ua/jpg/2061460.jpg,https://ek.ua/ua/ua/POWERCOLOR-RADEON-RX-6700-XT-RED-DEVIL.htm
+Palit GeForce GTX 1660 Ti Dual OC,6ГБ,12000МГц,GDDR6,NVIDIA GeForce GTX 1660 Ti,1815МГц,21350,25999,https://s.ek.ua/jpg/1537882.jpg,https://ek.ua/ua/ua/PALIT-GEFORCE-GTX-1660-TI-DUAL-OC.htm
+MSI GeForce RTX 3060 GAMING Z TRIO 12G LHR,12ГБ,15000МГц,GDDR6,NVIDIA GeForce RTX 3060,1867МГц,30048,32499,https://s.ek.ua/jpg/2087522.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3060-GAMING-Z-TRIO-12G-LHR.htm
+Asus GeForce RTX 3070 TUF Gaming OC V2 LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1845МГц,36558,36558,https://s.ek.ua/jpg/2055988.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3070-TUF-GAMING-OC-V2-LHR.htm
+MSI Radeon RX 6700 XT MECH 2X 12G OC,12ГБ,16000МГц,GDDR6,AMD Radeon RX 6700 XT,2620МГц,33048,40570,https://s.ek.ua/jpg/1977470.jpg,https://ek.ua/ua/ua/MSI-RADEON-RX-6700-XT-MECH-2X-12G-OC.htm
+PowerColor Radeon RX 6700 XT Hellhound 12GB,12ГБ,16000МГц,GDDR6,AMD Radeon RX 6700 XT,2581МГц,52575,52578,https://s.ek.ua/jpg/2015452.jpg,https://ek.ua/ua/ua/POWERCOLOR-RADEON-RX-6700-XT-HELLHOUND-12GB.htm
+Asus GeForce RTX 3060 Ti Dual V2 Mini LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1695МГц,28323,30999,https://s.ek.ua/jpg/2077938.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3060-TI-DUAL-V2-MINI-LHR.htm
+Asus GeForce RTX 3070 Ti ROG STRIX OC,8ГБ,19000МГц,GDDR6X,NVIDIA GeForce RTX 3070 Ti,1875МГц,47628,47628,https://s.ek.ua/jpg/2038292.jpg,https://ek.ua/ua/ua/ASUS-GEFORCE-RTX-3070-TI-ROG-STRIX-OC.htm
+MSI GeForce RTX 3070 SUPRIM X 8G LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3070,1920МГц,37260,44622,https://s.ek.ua/jpg/2053201.jpg,https://ek.ua/ua/ua/MSI-GEFORCE-RTX-3070-SUPRIM-X-8G-LHR.htm
+INNO3D GeForce RTX 3060 TI TWIN X2 LHR,8ГБ,14000МГц,GDDR6,NVIDIA GeForce RTX 3060 Ti,1665МГц,38999,41359,https://s.ek.ua/jpg/2087521.jpg,https://ek.ua/ua/ua/INNO3D-GEFORCE-RTX-3060-TI-TWIN-X2-LHR.htm

@@ -1,5 +1,4 @@
 require 'open-uri'
-require 'nokogiri'
 require 'csv'
 require_relative 'Scrapper'
 require_relative 'VideoCardParser'
@@ -14,6 +13,6 @@ def export_to_csv(filename, items)
 end
 
 scrapper = Scrapper.new
-items = scrapper.fetch(189, 'Відеокарта', 1, 1)
+items = scrapper.fetch(189, 'Відеокарта', 1, 5)
 video_cards = VideoCardParser.parse_all(items)
 export_to_csv('data.csv', video_cards)
