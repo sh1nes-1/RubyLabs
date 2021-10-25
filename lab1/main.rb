@@ -1,25 +1,19 @@
 require 'open-uri'
 require 'nokogiri'
 require 'csv'
-require_relative 'parser'
+require_relative 'Scrapper'
+require_relative 'VideoCardParser'
 
-CATALOG_ID = 189
-SEARCH_KEYWORD = 'Відеокарта'
-MAX_PAGES = 5
-OUTPUT_FILENAME = 'data.csv'
-CSV_HEADER = %w[Title Specs Price Image Link]
-
-def export_to_csv(filename, header, items)
+def export_to_csv(filename, items)
   CSV.open(filename, "wb") do |csv|
-    csv << header
-    items.each do |hash|
-      csv << hash.values
+    csv << items.first.instance_variables.map {|var_name| var_name[1..-1]}
+    items.each do |item|
+      csv << item.values
     end
   end
-  self
 end
 
-parser = Parser.new
-items = parser.parse(CATALOG_ID, SEARCH_KEYWORD, 1, MAX_PAGES)
-
-export_to_csv(OUTPUT_FILENAME, CSV_HEADER, items)
+scrapper = Scrapper.new
+items = scrapper.fetch(189, 'Відеокарта', 1, 1)
+video_cards = VideoCardParser.parse_all(items)
+export_to_csv('data.csv', video_cards)

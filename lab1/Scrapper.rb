@@ -1,8 +1,8 @@
-class Parser
+class Scrapper
   BASE_URL = 'https://ek.ua/ua'
   CATALOG_URL = "#{BASE_URL}/ek-list.php?katalog_=%d&sb_=%s&page_=%d"
 
-  def parse(catalog_id, search_keyword, start_page, max_pages)
+  def fetch(catalog_id, search_keyword, start_page, max_pages)
     all_items = Array.new
 
     (start_page..max_pages).each do |page|
@@ -35,6 +35,8 @@ class Parser
     doc.css('.model-short-block').each do |item_el|
       item = parse_item(item_el)
       items.push(item)
+    rescue error
+      # Ignored
     end
 
     items
@@ -50,7 +52,11 @@ class Parser
 
     item          = Hash.new
     item['title'] = item_link_el['title'].strip
-    item['specs'] = item_el.css('.m-s-f2').children.map { |item_spec| item_spec.attr('title') }
+
+    specs_list = item_el.css('.m-s-f2').children.map { |item_spec| item_spec.attr('title') }
+    specs_dict = specs_list.group_by { |specs| specs.split(':', 2)[0] } # { 'Key' => ['Key: Value'] }
+    item['specs'] = specs_dict.transform_values { |values| values[0].split(':', 2)[1].strip } # { 'Key' => 'Value' }
+
     item['price'] = price_el.text
     item['image'] = item_el.css('.model-short-photo img').attr('src')
     item['link']  = BASE_URL + item_link_el.attr('href')
