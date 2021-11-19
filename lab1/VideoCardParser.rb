@@ -20,9 +20,10 @@ class VideoCardParser
 
     gpu_data = item['specs']['GPU'].split(',') # NVIDIA GeForce RTX 3060, 1777МГц
     gpu_name      = gpu_data[0].gsub(' ', '').strip
+    manufacturer  = gpu_name.split(' ')[0].strip
     gpu_frequency = gpu_data[1].gsub(' ', ' ').strip
 
-    VideoCard.new(title, memory_capacity, memory_frequency, memory_type, gpu_name, gpu_frequency, min_price, max_price, img_url, reference_url)
+    VideoCard.new(title, memory_capacity, memory_frequency, memory_type, manufacturer, gpu_name, gpu_frequency, min_price, max_price, img_url, reference_url)
   rescue
     nil
   end
